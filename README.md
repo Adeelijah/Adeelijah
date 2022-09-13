@@ -67,7 +67,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Test Post](https://dev.to/adeelijah/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Adeelijah/Adeelijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
